@@ -19,3 +19,4 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 rootProject.name = "AndroidUwU"
 
 include(":app")
+include(":app:testunittest")

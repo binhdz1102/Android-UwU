@@ -4,7 +4,6 @@
 #coreKtx = "1.13.1"
 #junit = "4.13.2"
 #junitVersion = "1.1.5"
-#espressoCore = "3.5.1"
 #lifecycleRuntimeKtx = "2.8.0"
 #activityCompose = "1.9.0"
 #composeBom = "2023.08.00"
@@ -34,7 +33,6 @@ androidxLifecycle = "2.6.2"
 kotlin1910 = "1.9.10"
 junit = "4.13.2"
 androidx-test-ext-junit = "1.1.5"
-espresso-core = "3.5.1"
 appcompat = "1.6.1"
 material = "1.11.0"
 #material3 = "1.1.2"
@@ -52,7 +50,6 @@ coreVersion = "1.13.0"
 #androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 #junit = { group = "junit", name = "junit", version.ref = "junit" }
 #androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
-#androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
 #androidx-lifecycle-runtime-ktx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }
 #androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
 #androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
@@ -105,7 +102,6 @@ ksp-gradlePlugin = { group = "com.google.devtools.ksp", name = "com.google.devto
 room-gradlePlugin = { group = "androidx.room", name = "room-gradle-plugin", version.ref = "room" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "androidx-test-ext-junit" }
-espresso-core = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 androidx-core = { group = "androidx.core", name = "core", version.ref = "core" }
 
